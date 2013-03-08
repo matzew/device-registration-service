@@ -31,8 +31,8 @@ public class DeviceRegistrationTest {
         //@Inject
         DeviceRegistrationService ds = new DeviceRegistrationService();
         
-        ds.registerDevice("0-91238t47eruwoia;lkde20-1830-9qweopq243-09", "iOS", "6.1");
-        ds.registerDevice("BPBra4TGeKkYjlI0c8M5Y0sM0-91238t47eruwoia;lkde20yYiHqIkJFUBqQXPz8QSCBylDePBCNViCog", "android", "4");
+        ds.registerDevice("9ecda1fe6d7e135cd97485a395338c1a9f4de5ee5f5fe2847d8161398e978d10", "iOS", "6.1");
+        ds.registerDevice("APA91bHVDj-EA1GZxmR8GYtxtMfDX6RsC54PpQjbC28-WwDnesns9nY28g51HBxzrELdlO9XHfyxfI31wc6O0aZ4K5P7gbuv2VhVowa_BPBra4TGeKkYjlI0c8M5Y0sMyYiHqIkJFUBqQXPz8QSCBylDePBCNViCog", "android", "4");
     }
 
     @Test
